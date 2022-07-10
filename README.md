@@ -1,1 +1,1 @@
-Game dev.
+Hey there. I'm a game developer and programmer who goes around doing whatever. Currently, I'm learning 3D game development and backend systems. That's pretty much it. You'll definitely see me in a lot of game jams!
